@@ -1,0 +1,15 @@
+Version of Axelrod model with dyadic influence and noise,
+with variable size von Neumann neighbourhodd.
+
+Derived originaly from Jens Pfau's c++ code for his Physica A paper from
+
+http://ww2.cs.mu.oz.au/~pfauj/physicaa2012/physicaa2012-cpp.zip
+
+modified by Alex Stivala to paralleize on MPI system using mpi4py
+in conjunction with physica2012-python-mpi (modified version of Jens's 
+Python scripts)
+
+
+ADS
+Mon Jun  6 16:53:08 AEST 2016
+
