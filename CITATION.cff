@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Stivala"
+  given-names: "Alex"
+  orcid: "https://orcid.org/0000-0002-2442-4743"
+- family-names: "Keeler"
+  given-names: "Paul"
+title: "Another phase transition in the Axelrod model"
+url: "https://github.com/stivalaa/axelrod_qrphase"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Stivala"
+      given-names: "Alex"
+      orcid: "https://orcid.org/0000-0002-2442-4743"
+    - family-names: "Keeler"
+      given-names: "Paul"
+  title: "Another phase transition in the Axelrod model"
+  doi: 10.48550/arXiv.1612.02537
+  url: https://arxiv.org/abs/1612.02537
+  year: 2016
