@@ -4,6 +4,8 @@
 
 Imported from http://munk.cis.unimelb.edu.au/~stivalaa/axelrod_qrphase/
 
+Also available with Zenodo DOI: [![DOI](https://zenodo.org/badge/132081707.svg)](https://doi.org/10.5281/zenodo.17992801)
+
 This software is free under the terms of the GNU General Public License.
 Some is derived from code developed for an earlier publication
 [Ultrametric distribution of culture vectors in an extended Axelrod model of cultural dissemination](http://munk.cis.unimelb.edu.au/~stivalaa/ultrametric_axelrod/).
